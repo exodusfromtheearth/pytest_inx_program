@@ -1,0 +1,5 @@
+2021-01-25 16:42:41,841 - /Users/gaoxiaotong/PycharmProjects/FA_ApiTest/case/test_02_org.py[line:27] - INFO: ==========FA-Test环境API场景测试==========
+2021-01-25 16:42:42,048 - /Users/gaoxiaotong/PycharmProjects/FA_ApiTest/common/requestFunc.py[line:26] - INFO: 请求地址【https://fa-test.huaxing.com/api/organizations?layout=index&page=1&page_size=20】
+2021-01-25 16:44:33,231 - /Users/gaoxiaotong/PycharmProjects/FA_ApiTest/case/test_01_company.py[line:20] - INFO: ==========FA-Test环境API场景测试==========
+2021-01-25 16:44:33,368 - /Users/gaoxiaotong/PycharmProjects/FA_ApiTest/common/requestFunc.py[line:26] - INFO: 请求地址【https://fa-test.huaxing.com/api/organizations?layout=index&page=1&page_size=20】
+2021-01-25 16:44:49,410 - /Users/gaoxiaotong/PycharmProjects/FA_ApiTest/common/requestFunc.py[line:26] - INFO: 请求地址【https://fa-test.huaxing.com/api/companies?page=1&page_size=20&need_contact_count=true】
